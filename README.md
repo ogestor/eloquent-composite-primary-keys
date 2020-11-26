@@ -11,7 +11,7 @@ In case you still want to use this functionality in Laravel, you can have a look
 ## Install
 Install this package through Composer:
 ```
-composer require coenjacobs/eloquent-composite-primary-keys
+composer require ogestor/eloquent-composite-primary-keys
 ```
 
 Make sure you have a database schema that supports composite primary keys, for example via a migration:
